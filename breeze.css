@@ -1,0 +1,71 @@
+.container{
+    width: auto;
+    height:auto;
+    border:2px solid black;
+    padding: 20px;
+}
+ h1{
+    text-align: center;
+}
+.p1{
+     
+    padding-left: 250px;
+    position: relative;
+    top: 30px;
+}
+h6{
+    text-align: center;
+}
+.studenth4{
+    text-align: center;
+}
+.p2{
+    text-align: right;
+}
+table{
+    margin-left: 20%;
+    margin-top: 28px;
+}
+.list3{
+    padding-left: 40px;
+
+}
+.p3{
+    padding-left: 300px;
+    position: relative;
+    top: 15px;
+}
+.sublist1{
+    height: 75px;
+    width: 98px;
+    border:1px solid black;
+    padding-bottom: 30px;
+    left: 90%;
+    position: relative;
+    bottom: 90px;
+}
+.dream{ 
+    width: 90px;
+    height: 90px;    
+}
+input{
+    border: none;
+    border-bottom: 2px solid black;
+    width: 80%;    
+}
+.pan{
+    color: blue;
+    text-decoration: underline;
+}
+.li1,li2,li3,li4,li5{
+    width: 15px;
+    height: 15px;
+    padding: 1px;
+   
+}
+p{
+    padding-left: 30px;
+    position: relative;
+    top: 5px;
+}
+    
